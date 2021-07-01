@@ -1,0 +1,140 @@
+
+
+  .go-to-bag-btn
+  {
+      width: 100%;
+      background-color: #bb4225;
+      border-radius: 5px;
+      color: #ffff;
+      padding: 10px;
+  }
+  .p-10
+  {
+    padding: 10px,10px,10px,10px;
+  }
+  .addbag-card
+  {
+    width: 354px;
+  box-shadow: 0 0 4px 0 #e9c0a8;
+  border: solid 1px #e9c0a8;
+  background-color: #ffffff;
+    border-radius: 5px;
+    padding: 0px 10px 10px 10px;
+  }
+ .go-bag
+  {
+
+    border-bottom: 1px solid lavenderblush;
+  }
+  .p-l-3
+  {
+    padding-left: 3px;
+  }
+  .price-box
+  {
+
+    width: 100% !important;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-top: 2px solid #fff0e7;
+    border-bottom: 2px solid #fff0e7;
+    
+  }
+  .ruppes-addbag
+  {
+    padding-left: 150px;
+
+  }
+  .goto-bag-images
+  {
+    width: 76px;
+    height: 101px;
+  }
+  .p-l-175
+  {
+    padding-left: 175px;
+  }
+  .pl-120
+  {
+    padding-left: 120PX;
+  }
+  .add-bag-tip{
+    content: "";
+    /* hides the tooltip when not hovered */
+    display: inline-block;
+    content: "";
+    border-left: 10px solid transparent;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid white;
+    filter: drop-shadow(4px 2px 3px #e9c0a8);
+    position: absolute;
+    line-height: 24px;
+    transform: rotate(-135deg);
+    top: -5px;
+    left: auto;
+    right:8%;
+    width: 0;
+    height: 0;
+    z-index: 1;
+  }
+
+  @media (min-width: 992px) {
+   
+    .addBagdiv {
+      top: 80px;
+      display: block !important;
+      position: fixed;
+      z-index: 999 !important;
+      padding: 0px !important;
+      background-color: #ffff !important;
+      right: calc(50% - 456px);
+      border-radius: 5px;
+      }
+
+  }
+
+  @media (min-width: 1200px) {
+    .addBagdiv {
+      top: 80px;
+      border-radius: 5px;
+      display: block !important;
+      position: fixed;
+      z-index: 999 !important;
+      padding: 0px !important;
+      background-color: #ffff !important;
+      right: calc(50% - 537px);
+      }
+  
+  }
+.dotted-bag{
+  height: 1px;
+  border: 1px dotted #f5e3d8;
+  width: 100%;
+}
+.item-bag{
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-top: 10px
+}
+.item-bag-div:hover{
+  background-color: #f5e3d8;
+}
+.value-bag:after{
+  position: absolute;
+  display: -webkit-flex;
+  display: block;
+  margin: 0px 0px;
+  -webkit-justify-content: center;
+  justify-content: center;
+  background: #bb4225;
+  border-radius: 50%;
+  color: #fff;
+  content: attr(bag);
+  font-size: 11px;
+  text-align: center;
+  padding-top: 3px;
+  width: 16px;
+  height: 16px;
+  top:45px;
+  margin-left: -4px;
+}

@@ -1,0 +1,105 @@
+.ReactModal__Content, .ReactModal__Content--after-open{
+    position: absolute;
+    top: 40px;
+    left: 35%;
+    right: 30%;
+    bottom: 40px;
+    border: 1px solid rgb(204, 204, 204);
+    background: rgb(255, 255, 255);
+   
+    border-radius: 4px;
+    outline: none;
+    padding: 5px;
+    /* margin-top: auto; */
+    /* margin-bottom: auto; */
+   
+    width: 1271px;
+    /* height: 60px; */
+    background-color: #fffaf7;
+    margin: auto;
+
+}
+.ReactModal__Overlay .ReactModal__Overlay--after-open{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 16px;
+}
+.similarproduct-modal-header {
+    width: 100%;
+    display: -ms-flexbox;
+    display: flex;
+    height: 60px;
+}
+.similarproduct-modal-bodcontainer {
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    text-align: center;
+    padding: 6px;
+}
+.similarproduct-modal-body {
+    flex: 18.33% ;
+    padding: 5px 5px;
+  }
+  .similarproduct-modal-body img{
+    width: 239px;
+    height: 228px;
+    display: flex;
+    border-radius: 4px;
+}
+.similarproduct-modal-header .similarproduct-modal-img {
+    position: relative;
+    left: 1055px;
+    font-size: 15.5px;
+    color: #000000;
+}
+
+  
+.similarproduct-modal-heading{
+    color: #212121;
+    font-size: 19px;
+    margin-left: 16px;
+    font-weight: 400;
+    margin-top: 19px;
+}
+/* .similarproduct-modal-header .similarproduct-modal-img{
+
+    position: relative;
+    left: 1093px;
+    font-size: 15.5px;
+    color: #000000;
+} */
+.similarproduct-modal-header .similarproduct-modal-img {
+  
+    position: relative;
+    left: 1052px;
+    font-size: 15.5px;
+    color: #000000;
+    cursor: pointer;
+}
+.prodcutname-similarproduct{
+    font-size: 12px;
+    margin-left: -192px;
+    margin-top: 7px;
+    font-weight: 400;
+}
+
+.prodcutname-similarproduct-price{
+    font-size: 13px;
+    margin-left: -193px;
+    margin-top: -13px;
+}
+
+.prodcutname-similarproduct-disc {
+    font-size: 14px;
+    margin-left: -2px;
+    margin-top: -5px;
+    width: 101%;
+    font-weight: 200;
+    opacity: 0.4;
+    text-align: initial;
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="86px" viewBox="0 0 86 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Pinterest</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-14.1%" y="-9.0%" width="128.3%" height="118.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.91372549   0 0 0 0 0.752941176   0 0 0 0 0.658823529  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.1-Home-Page-2.0---Full-Length---Desktop" transform="translate(-889.000000, -11961.000000)">
+            <g id="Group-30" filter="url(#filter-1)" transform="translate(872.000000, 11676.000000)">
+                <g id="Group-28" transform="translate(0.000000, 288.000000)">
+                    <g transform="translate(48.000000, 24.000000)" id="Group-40">
+                        <g>
+                            <g id="Pinterest">
+                                <path d="M18.28125,-1.6363722e-15 C21.75,-1.6363722e-15 24,2.25 24,5.71875 L24,18.28125 C24,21.75 21.75,24 18.28125,24 L5.71875,24 C2.25,24 0,21.75 0,18.28125 L0,5.71875 C0,2.25 2.25,-1.6363722e-15 5.71875,-1.6363722e-15 L18.28125,-1.6363722e-15 Z" id="App-Icon-Shape" fill="#FFFFFF"></path>
+                                <g id="Icon" transform="translate(2.000000, 2.000000)">
+                                    <circle id="Oval" fill="#BD081C" cx="10" cy="10" r="10"></circle>
+                                    <path d="M6.51506327,15.8081147 L7.50306279,11.6686348 C7.50306279,11.6686348 7.60306279,11.1686348 7.34766327,10.7223147 C7.34766327,10.7223147 6.77886327,9.30051472 7.90286327,8.09511472 C7.90286327,8.09511472 8.82366327,7.05231472 10.0018633,7.83791472 C10.0018633,7.83791472 10.6738628,8.36663479 10.4030628,9.36863479 L9.60306279,11.8686348 C9.60306279,11.8686348 9.11446339,13.7686348 10.9226633,13.9319147 C10.9226633,13.9319147 12.8322633,14.1891147 13.7530633,11.6025147 C14.6738633,9.01611472 13.6030628,7.36863479 13.6030628,7.36863479 C13.6030628,7.36863479 12.2258638,4.95079466 9.11446327,5.45971472 C6.00306279,5.96863479 5.60966327,8.93691472 5.60966327,8.93691472 C5.60966327,8.93691472 5.37606327,10.7649147 6.35186327,12.0979147 L5.88466327,13.6923147 C5.88466327,13.6923147 3.50306285,12.1686348 3.60306327,9.43171472 C3.60306327,9.43171472 3.70306285,4.86863469 8.37026326,3.76863472 C8.37026326,3.76863472 12.5977182,2.70404404 15.1,6.09999994 C16.4999992,8.00000001 16.3999997,10.0686344 16.1,11.6025146 C15.8000003,13.1363949 14.6668633,14.1183147 14.6668633,14.1183147 C14.6668633,14.1183147 11.6030628,17.368634 8.93786327,14.5001147 L8.37026327,16.6867147 C8.37026327,16.6867147 7.70426279,19.055834 6.80306279,19.668634 L6.38866327,19.5625147 C6.38866327,19.5625147 6.18246327,16.9235147 6.51506327,15.8081147 Z" fill="#FFFFFF"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

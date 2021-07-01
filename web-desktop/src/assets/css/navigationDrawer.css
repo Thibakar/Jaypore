@@ -1,0 +1,30 @@
+.a-ml-8{
+    margin-left: 8px;
+}
+.login-text, .curr-nav{
+    font-family: 'worksans-r';
+}
+.a-mb-12{
+    margin-bottom: 12px;
+}
+.containerNavigationDrawer{
+        width: 100%;       
+}
+.a-ml-19{
+    margin-left: 19px;
+}
+.a-ml-4{
+    margin-left:4px;
+}
+.navDrawExploreTitle{
+    font-family: 'Pt-b', 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: #212121;
+    font-weight: normal !important;
+}
+@media (min-width: 1200px) {
+    .containerNavigationDrawer {
+      width: 960px;  
+    }
+    
+}

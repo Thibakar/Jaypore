@@ -1,0 +1,25 @@
+.mybag-card-arrow{
+    transform: rotate(90deg);
+    width: 10px;
+    height: 6px;
+    margin-top: -5px;
+}
+.onhoverAvailableList:hover .mybag-size-available {
+    display: block;
+  }
+  .onhoverAvailableList .mybag-size-available {
+    display: none;
+    position: absolute;
+    left: 0;
+    bottom: 0px;
+    right: 0;
+    background:transparent;
+    max-height: calc(100%-50px);
+    overflow-y: scroll;
+    margin-left: -1px;
+    overflow-x:hidden;
+    margin-right: -1px;
+  }
+  .caretColor-bb{
+    caret-color: #bb4225;
+  }

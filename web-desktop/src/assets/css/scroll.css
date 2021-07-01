@@ -1,0 +1,36 @@
+ 
+  .EXE_NAV ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+ 
+  /* Smooth CSS3 Scrolling */
+  a[ id= "EXE_DIV1" ]:target ~ #EXE_MAIN article.panel {
+    -webkit-transform: translateY( 0px);
+    transform: translateY( 0px );
+    margin-top: 100px;
+  }
+  a[ id= "EXE_DIV2" ]:target ~ #EXE_MAIN article.panel {
+    -webkit-transform: translateY( -500px );
+    transform: translateY( -500px );
+  }
+  a[ id= "EXE_DIV3" ]:target ~ #EXE_MAIN article.panel {
+    -webkit-transform: translateY( -1000px );
+    transform: translateY( -1000px );
+  }
+  a:hover {
+    color: black !important;
+  }
+  a:focus{
+      color: black !important;
+  }
+
+  .text-black
+  {
+      color:#717171 !important;
+  }
+
+  :home-scroll{
+    color: black !important;
+  }

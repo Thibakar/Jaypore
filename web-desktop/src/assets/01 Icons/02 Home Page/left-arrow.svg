@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Group 36</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-36" filter="url(#filter-1)" transform="translate(16.000000, 14.000000) rotate(-180.000000) translate(-16.000000, -14.000000) translate(4.000000, 2.000000)">
+            <circle id="Oval-8" fill="#FFFFFF" cx="12" cy="12" r="12"></circle>
+            <path d="M10.9103526,11.9968396 L15.6508561,7.64180271 C15.9269656,7.40544167 16.0406221,7.04947276 15.9472381,6.71354283 C15.8538541,6.37761289 15.5683236,6.11529982 15.2026603,6.02950921 C14.8369971,5.9437186 14.4495212,6.0481333 14.1922397,6.30179135 L8,11.9905188 L9.58934152,13.4506255 L14.2128805,17.6982086 C14.470162,17.9518667 14.8576379,18.0562814 15.2233011,17.9704908 C15.5889644,17.8847002 15.8744949,17.6223871 15.9678789,17.2864572 C16.0612629,16.9505272 15.9476064,16.5945583 15.6714969,16.3581973 L10.9103526,11.9968396 Z" id="Shape" fill="#212121" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) "></path>
+        </g>
+    </g>
+</svg>

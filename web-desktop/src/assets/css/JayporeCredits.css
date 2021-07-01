@@ -1,0 +1,236 @@
+.desktop-jc-div1{
+  padding-top: 16px;
+  padding-bottom: 5px;
+  padding-left: 330px;
+  padding-right: 480px;
+  border: 1px solid #f5e3d8;
+  background-color: #fff0e7;
+  }
+  .vnpcontainer {
+  width: 100%;
+  /* Center the DIV horizontally */
+  }
+  .vnpcontainer p{
+  line-height: 200px; /* Create scrollbar to test positioning */
+  }
+  .desktop-jc-div2 {
+    width: 754px;
+    height: 57px;
+    background-color: #fffaf7;
+    margin: 0 auto;
+    position: relative;
+  }
+  .desktop-jc-div3 {
+  border:1px solid;
+  border-color:#fffaf7;
+  margin-top:3px;
+  }
+  .desktop-jc-div4 {
+    width: 755px;
+  
+    border: 24px solid #ffffff;
+    border-radius: 4px;
+    width: 755px;
+    /* margin-left: -2px; */
+    border: 24px solid #ffffff;
+    border-radius: 4px;
+    margin: 0 auto;
+}
+  .jc-text1 {
+    float: left;
+    margin-left: 11px;
+    /* font-weight: 400; */
+    font-size: 19px;
+  }
+  .jc-text2 {
+    float: right;
+    margin-right: 10px;
+    font-size: 19px;
+  }
+  .jc-text3 {
+  margin-left: 10px;
+  font-weight: lighter;
+  font-size: 12px;
+  }
+  .nplabel1 {
+    padding-left: 87px;
+    font-weight: 570;
+    font-size: 18px;
+    position: absolute;
+    position: absolute;
+    top: 50%;
+    left: 7%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  
+
+
+  }
+  h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+  .jaypore-credit-money-summary-container{
+    width: 100%;
+    height: 157px;
+    margin:0 auto;
+  }
+
+  .jaypore-credit-available-credit {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 16px;
+    margin-top: 14px;
+}
+.jaypore-credit-money-ruppes{
+  display: flex;
+    justify-content: space-between;
+    padding: 0px 16px;
+    margin-top: 14px;
+}
+
+  #nprectangle {
+    width: 708px;
+    height: 609px;
+    border: solid 1px #f5e3d8;
+    background-color: #fffaf7;
+    margin: auto;
+  }
+  #nprectangle .vnpcontent {
+    width: 676px;
+    height: 577px;
+    border: solid 1px #f5e3d8;
+    background-color: #ffffff;
+    margin: 16px auto;
+    border-radius: 4px;
+  }
+  .npcred3 {
+    margin-top: -5px;
+    margin-left: 10px;
+    float: left;
+    color: #53AF50;
+    font-size: 26px;
+  }
+  .npcred4 {
+    margin-top: -5px;
+    margin-right: 10px;
+    float: right;
+    font-size: 25px;
+    color: #282828;
+  }
+  .nphead1 {
+    margin-left: 25px;
+     margin-top:2px;
+    font-weight: 600;
+    font-size: 15px;
+    color: #424242;
+    font-family: sans-serif;
+}
+  
+  .nppar1 {
+    font-weight: normal;
+    margin: 10px;
+    margin-left: 25px;
+    font-size: 15px;
+    font-family: sans-serif;
+  }
+  .npll {
+  color: #faf1eb;
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  border: 1px solid #f5e3d8;
+  }
+  .npll1 {
+  color: #faf1eb;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #f5e3d8;
+  }
+
+  .nppar2 {
+    margin-left: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #464646;
+}
+  .nppar3 {
+    margin-left: 81px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #464646;
+  }
+  .nppar4 {
+    margin-left: 13px;
+    font-size: 14px;
+    font-weight: 200;
+    color: #464646;
+    font-family: sans-serif;
+  }
+  .nppar5{
+    margin-left: 93px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #464646;
+    font-size: 14px;
+    font-weight: 200;
+    color: #464646;
+    font-family: sans-serif;
+  }
+  .nppar6{
+    margin-left: 81px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #464646;
+    margin-left: 91px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #464646;
+    font-size: 14px;
+    font-weight: 200;
+    color: #464646;
+    font-family: sans-serif;
+  }
+   .nppar7{
+    margin-left: 37px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #464646;
+    font-size: 14px;
+    font-weight: 200;
+    color: #464646;
+    font-family: sans-serif;
+   }
+   .nppar9{
+    margin-left: 37px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #464646;
+    font-size: 14px;
+    font-weight: 200;
+    color: #464646;
+    font-family: sans-serif;
+}
+
+  .jaypore-credit-received-expire-details-amount-wrapper{
+    display: flex;
+    -ms-flex-pack: start;
+    justify-content: space-between;
+    padding: 9px 19px;
+  }
+  .jaypore-credit-date-refund-points-price{
+    display: flex;
+    justify-content: flex-start;
+    padding: 0 19px;
+  }

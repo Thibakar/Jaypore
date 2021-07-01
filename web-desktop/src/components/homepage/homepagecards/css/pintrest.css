@@ -1,0 +1,213 @@
+.p-popup-card {
+  background-color    : rgba(215, 215, 215, 1.0);
+  height              : 214px;
+  width               : 162px;
+  margin              : 0;
+  position:relative;
+  border-radius       : 7px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  margin-right: 15px;
+    margin-bottom: 15px;
+}
+.p-popup-card .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top:0;
+  height              : 214px;
+  width               : 162px;
+  margin              : 0;
+  border-radius       : 7px;
+  position:absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.p-popup-card img {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 214px;
+  width               : 162px;
+  left:0px;
+  margin              : 0;
+  position:absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+
+
+
+
+.p-popup-card-selected {
+  background-color    : rgba(215, 215, 215, 1.0);
+  height              : 218px;
+  width               : 166px;
+  position            : relative;
+  margin              : 0;
+  border-radius       : 7px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  margin-right: 15px;
+    margin-bottom: 15px;
+}
+.p-popup-card-selected .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 218px;
+  box-sizing          : border-box;
+  width               : 166px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 7px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(232, 192, 167, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.p-popup-card-selected img {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 214px;
+  width               : 162px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+
+
+
+.p-popup-big-card {
+  background-color    : rgba(215, 215, 215, 1.0);
+  height              : 583px;
+  width               : 440px;
+  position            : relative;
+  margin              : 0;
+  border-radius       : 8px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.p-popup-big-card .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 583px;
+  width               : 440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.p-popup-big-card img {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 583px;
+  width               : 440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+
+
+.pintrest-button {
+  background-color    : rgba(255,255,255,0.0);
+  height              : 47px;
+  width               : 229px;
+  position            : relative;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.pintrest-button .rectangle15 {
+  background-color    : rgba(189, 9, 28, 1.0);
+  top                 : 0px;
+  height              : 47px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.pintrest-button .followusonpintres {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 48px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Work Sans", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 19.0px;
+}
+.pintrest-button .fill4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+
+.p-card{
+  padding-right: 40px;
+    padding-left: 30px;
+}
+
+.p-card-main{
+  left: 30px;
+}
+
+.p-card-parent{
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.jp-mb-7_5{
+  margin-bottom:7.5px !important
+}
+
+.modal-window .insta-modal{
+  width: 90% !important;
+}
+
+.p-card-main-parent{
+  margin-left: 0;
+    margin-right: 0;
+}
+
+.p-card-row{
+  margin: 0 auto;
+}

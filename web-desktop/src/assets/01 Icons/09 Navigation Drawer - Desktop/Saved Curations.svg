@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="16px" viewBox="0 0 13 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Group 18</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="60.3841126%" x2="0%" y2="60.3841146%" id="linearGradient-1">
+            <stop stop-color="#F01E6C" offset="0%"></stop>
+            <stop stop-color="#FC5D1F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.1-Navigation-Drawer---Full-Length---Desktop" transform="translate(-1162.000000, -325.000000)">
+            <g id="Group-9" transform="translate(1140.000000, 308.000000)">
+                <g id="Group-18" transform="translate(16.000000, 13.000000)">
+                    <rect id="Rectangle-12" x="0" y="0" width="24" height="24"></rect>
+                    <g id="Bookmark" transform="translate(6.000000, 4.000000)" fill="url(#linearGradient-1)">
+                        <path d="M11.7817143,1.26511628 L11.7817143,14.6604651 L6.58171429,9.45116279 L1.38171429,14.6604651 L1.38171429,1.26511628 L11.7817143,1.26511628 L11.7817143,1.26511628 Z M11.7817143,0.148837209 L1.38171429,0.148837209 C0.766311279,0.148837209 0.267428571,0.648612372 0.267428571,1.26511628 L0.267428571,14.6604651 C0.267824713,15.1116527 0.539306934,15.5182374 0.955427923,15.6908457 C1.37154891,15.8634541 1.85047673,15.7681418 2.16914286,15.4493023 L6.58171429,10.9395349 L10.9942857,15.4493023 C11.3129518,15.7681418 11.7918797,15.8634541 12.2080006,15.6908457 C12.6241216,15.5182374 12.8956039,15.1116527 12.896,14.6604651 L12.896,1.26511628 C12.896,0.648612372 12.3971173,0.148837209 11.7817143,0.148837209 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

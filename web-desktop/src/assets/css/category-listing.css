@@ -1,0 +1,17 @@
+.row-button-selected{
+    border: 1px solid #b9432c;
+    color: #ffffff;
+    width: 42px;
+    height: 42px;
+    border-radius: 5px;
+    background:#b9432c;
+}
+
+
+.row-button{
+    border: 1px solid #b9432c;
+    color: #b9432c;
+    width: 42px;
+    height: 42px;
+    border-radius: 5px;
+}

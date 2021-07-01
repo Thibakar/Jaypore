@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17.6,6.4 L16.9,6.4 L16.9,4 L15.5,4 L15.5,8 L14.8,8 L14.8,6.4 L9.9,6.4 L9.9,4 L8.5,4 L8.5,8 L7.8,8 L7.8,6.4 L6.4,6.4 C5.6279,6.4 5,7.1184 5,8 L5,18.4 C5,19.2824 5.6279,20 6.4,20 L17.6,20 C18.3721,20 19,19.2824 19,18.4 L19,8 C19,7.1184 18.3721,6.4 17.6,6.4 Z M17.5979,18.4 L6.4,18.4 L6.4,9.6 L17.6,9.6 L17.5979,18.4 Z" id="path-1"></path>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.1-Signup---Normal-State---Desktop" transform="translate(-895.000000, -583.000000)">
+            <g id="Group-12" transform="translate(890.000000, 579.000000)">
+                <rect id="Rectangle-7" x="0" y="0" width="24" height="24"></rect>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#D88350" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

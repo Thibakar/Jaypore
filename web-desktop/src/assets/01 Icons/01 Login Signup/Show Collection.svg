@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>clone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M398.5,460 L388.5,460 C387.671562,460 387,460.671562 387,461.5 L387,463 L385.5,463 C384.671562,463 384,463.671562 384,464.5 L384,474.5 C384,475.328438 384.671562,476 385.5,476 L395.5,476 C396.328438,476 397,475.328438 397,474.5 L397,473 L398.5,473 C399.328438,473 400,472.328438 400,471.5 L400,461.5 C400,460.671562 399.328438,460 398.5,460 Z M395.3125,474.5 L385.6875,474.5 C385.583947,474.5 385.5,474.416053 385.5,474.3125 L385.5,464.6875 C385.5,464.583947 385.583947,464.5 385.6875,464.5 L387,464.5 L387,471.5 C387,472.328438 387.671562,473 388.5,473 L395.5,473 L395.5,474.3125 C395.5,474.416053 395.416053,474.5 395.3125,474.5 Z M398.3125,471.5 L388.6875,471.5 C388.583947,471.5 388.5,471.416053 388.5,471.3125 L388.5,461.6875 C388.5,461.583947 388.583947,461.5 388.6875,461.5 L398.3125,461.5 C398.416053,461.5 398.5,461.583947 398.5,461.6875 L398.5,471.3125 C398.5,471.416053 398.416053,471.5 398.3125,471.5 Z" id="path-1"></path>
+        <filter x="-43.8%" y="-31.2%" width="187.5%" height="187.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="03-Saved-Collections" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.1-Saved-Curation---Normal-State---Desktop" transform="translate(-460.000000, -618.000000)">
+            <g id="Group-16" transform="translate(80.000000, 160.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="clone" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

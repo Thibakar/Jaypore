@@ -1,0 +1,133 @@
+.you-might-like-fav-icon {
+    position: absolute;
+    top:6px;
+    left: auto;
+    right: 3px;
+}
+
+.you-might-like-similar-icon {
+    position: absolute;
+    top:auto;
+    bottom: 3px;
+    left: auto;
+    right: 5px;
+}
+
+.you-might-like-readytoship-icon {
+    position: absolute;
+    top:auto;
+    left: 0px;
+    bottom: 0px;
+}
+
+.you-may-like-parent-card{
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+}
+
+.jp-card-border{
+    border: 1px solid#f5e3d9;
+border-radius: 5px;
+}
+
+.oc-thank-title{
+    font-size: 1.4rem !important;
+}
+
+.oc-brand-color{
+    color :#757575 !important;
+}
+
+.oc-mb-30{
+    margin-bottom: 30px !important;
+}
+
+.oc-mb-20{
+    margin-bottom: 20px;
+}
+
+.oc-mb-15{
+    margin-bottom: 15px;
+}
+
+.oc-mb-10{
+    margin-bottom: 10px;
+}
+
+.oc-mb-5{
+    margin-bottom: 5px;
+}
+
+.oc-mt-5{
+    margin-top: 5px;
+}
+
+.oc-mt-10{
+    margin-top: 10px;
+}
+
+.oc-mt-20{
+    margin-top: 20px;
+}
+
+.oc-mt-30{
+    margin-top: 30px;
+}
+
+.oc-pl-10{
+    padding-left: 10px !important;
+}
+
+.oc-pl-20{
+    padding-left: 20px !important;
+}
+
+.oc-pr-10{
+    padding-right: 10px !important;
+}
+
+.oc-pr-20{
+    padding-right: 20px !important;
+}
+
+.jp-ta-left{
+    text-align: left !important;
+}
+
+.jp-ta-right{
+    text-align: right !important;
+}
+
+.jp-ta-center{
+    text-align: center !important;
+}
+
+.jp-fw-500{
+    font-weight: 500 !important;
+}
+
+.oc-item-purchased-div{
+    /* padding-left: 25px !important; */
+    /* padding-right: 0px !important; */
+}
+
+.oc-contact-color{
+    color:#616161 !important;
+}
+
+.oc-email-color{
+    color:#424242 !important;
+}
+
+.oc-help-title-font{
+    font-size: 1.2rem;
+}
+
+.oc-help-subtitle{
+    padding-left: 20px;
+    padding-right: 20px;
+    color:#757575 !important;
+    margin-left:auto;
+    margin-right:auto;
+    width:400px;
+}

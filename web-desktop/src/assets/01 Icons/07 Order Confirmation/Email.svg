@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.2-Order-Confirmation-Page---Payment-Successful---Complete-Details-Opened---Desktop" transform="translate(-314.000000, -1417.000000)">
+            <g id="Group-20" transform="translate(80.000000, 1173.000000)">
+                <g id="Group-4" transform="translate(234.000000, 244.000000)">
+                    <circle id="Oval-4" fill="#4CAF50" cx="16" cy="16" r="16"></circle>
+                    <g id="Mail" transform="translate(7.000000, 9.000000)" stroke="#FFFFFF" stroke-width="1.28">
+                        <rect id="Rectangle-8" x="0.782608696" y="0" width="17.2173913" height="13" rx="1.28"></rect>
+                        <path d="M0.778288468,1.62353516 L7.74069714,7.49181768 C8.69231391,8.29389011 10.0828976,8.2953684 11.0362176,7.49532105 L17.9956798,1.65478516 L17.9956798,1.65478516" id="Path-28"></path>
+                        <line x1="12.5173207" y1="6.49851227" x2="17.8977555" y2="11.8364944" id="Path-28-copy"></line>
+                        <line x1="2.2984991" y1="6.49851227" x2="7.67893388" y2="11.8364944" id="Path-28-copy-2" transform="translate(4.281894, 8.466257) scale(-1, 1) translate(-4.281894, -8.466257) "></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

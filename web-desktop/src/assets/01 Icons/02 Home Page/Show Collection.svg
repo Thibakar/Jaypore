@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>clone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M398.5,16 L388.5,16 C387.671562,16 387,16.6715625 387,17.5 L387,19 L385.5,19 C384.671562,19 384,19.6715625 384,20.5 L384,30.5 C384,31.3284375 384.671562,32 385.5,32 L395.5,32 C396.328438,32 397,31.3284375 397,30.5 L397,29 L398.5,29 C399.328438,29 400,28.3284375 400,27.5 L400,17.5 C400,16.6715625 399.328438,16 398.5,16 Z M395.3125,30.5 L385.6875,30.5 C385.583947,30.5 385.5,30.4160534 385.5,30.3125 L385.5,20.6875 C385.5,20.5839466 385.583947,20.5 385.6875,20.5 L387,20.5 L387,27.5 C387,28.3284375 387.671562,29 388.5,29 L395.5,29 L395.5,30.3125 C395.5,30.4160534 395.416053,30.5 395.3125,30.5 Z M398.3125,27.5 L388.6875,27.5 C388.583947,27.5 388.5,27.4160534 388.5,27.3125 L388.5,17.6875 C388.5,17.5839466 388.583947,17.5 388.6875,17.5 L398.3125,17.5 C398.416053,17.5 398.5,17.5839466 398.5,17.6875 L398.5,27.3125 C398.5,27.4160534 398.416053,27.5 398.3125,27.5 Z" id="path-1"></path>
+        <filter x="-43.8%" y="-31.2%" width="187.5%" height="187.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.1-Home-Page-2.0---Full-Length---Desktop" transform="translate(-460.000000, -3909.000000)">
+            <g id="Group-16" transform="translate(80.000000, 3895.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="clone" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

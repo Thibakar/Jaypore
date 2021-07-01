@@ -1,0 +1,420 @@
+.desktop-giftcards-main-container{
+   
+    width: 100%;
+    margin: 0 auto;
+   
+    border-radius: 1px;
+    width: 754px;
+  height: 57px;
+  background-color: #fffaf7;
+}
+.desktop-tooltip {
+  position: relative;
+  border-bottom: 1px black;
+  text-decoration: none;
+  color: #6BC4F7;
+  top: -39px;
+  right: -486px;
+  font-size: 14px;
+  font-weight: bold;
+}
+.desktop-giftcard-text1 {
+    color: #282727;
+    font-size: 19px;
+    padding-top: 16px;
+    margin-left: 25px;
+}
+.desktop-mycoupoun-line-btm{
+    border: solid 1px #f5e3d8;
+    margin-top: 1px;
+    width:48%;
+    border-radius: 1px;
+    max-width: 1280px;
+}
+.desktop-gift-main-wrapper{
+  margin: -9px auto;
+    /* max-width: 1280px; */
+    width: 756px;
+    border: solid 1px #f5e3d8;
+    background-color: #ffffff;
+    height: 390px;
+    border: solid 1px #f5e3d8;
+  
+}
+/* .desktop-giftcard-main-wrapper-contai{
+    margin: 20px auto;
+    border-radius: 4px;
+    width: 708px;
+    height: 508px;
+    border: solid 1px #f5e3d8;
+    background-color: #fffaf7;
+    overflow: hidden;
+} */
+.insidedesktopdiv {
+    background: #ffffff;
+    padding: 32px;
+    border: 2px dotted #f5e3d8;
+    width: 86%;
+    height: 21px;
+    margin-top: 14px;
+    margin-left: 15px;
+   
+  }
+.gift-row{ 
+  width: 724px;
+    height: 261px;
+    border: solid 1px #f5e3d8;
+    background-color: #fffaf7;
+    margin: 30px auto;
+ }
+ .desktop-coupons-expiredate {
+  font-size: 13px;
+  color: #3F3F3F;
+  text-decoration: none;
+  margin-left: 14px;
+  margin-top: 21px;
+  position: relative;
+  top: -17px;
+  left: -32px;
+  font-weight: 400;
+}
+.desktop-coupons-text{
+    position: relative;
+    top: -25px;
+    left: -11px;
+    text-decoration: none;
+    color: #212121;
+}
+  .column1 {
+    float: left;
+    width: 30%;
+    height: 80%;
+    margin-top: -9px;
+    position: relative;
+}
+
+.desktop-coupons-text3 {
+  font-size: 19px;
+  color: #BB4226;
+  font-weight: 600;
+  font-family: sans-serif;
+  margin-left: 10px;
+  margin-top: 14px;
+  font-weight: 700;
+}
+.desktop-coupons-text2 {
+    font-size: 14px;
+    color: #525252;
+    text-decoration: none;
+    font-weight: 400;
+
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.column4 {
+    float: left;
+    width: 23%;
+    height: 80%;
+    margin-top: -7px;
+    /* margin-right: -12px; */
+}
+.desktop-tooltip {
+    position: relative;
+    border-bottom: 1px black;
+    text-decoration: none;
+    color: #10ACF4;
+    top: 1px;
+    right: -19px;
+}
+
+.desktop-copouns-status{
+font-size: 21px;
+margin-left: 35px;
+color: red;
+margin-top: 2px;
+}
+.desktop-copouns-statusred {
+    font-size: 18px;
+    margin-left: 35px;
+    color: #EC4341;
+    margin-top: 2px;
+    font-weight: 800;
+}
+.desktop-coupons-text4 {
+    font-size: 19px;
+    margin-left: 35px;
+    color: #54AF50;
+    margin-top: 2px;
+    font-weight: 700;
+}
+.desktop-coupouns-price {
+    /* font-family: unset; */
+    font-size: 19px;
+    color: #212121;
+    margin-top: 6px;
+    font-weight: 700;
+}
+.desktop-tooltip {
+    position: relative;
+    border-bottom: 1px black;
+    text-decoration: none;
+    color: #6BC4F7;
+    top: 1px;
+    right: -19px;
+    font-size: 14px;
+   
+    font-weight: bold;
+}
+.desktop-coupons-codevalue {
+  font-size: 14px;
+    color: #525252;
+    text-decoration: none;
+    font-weight: 400;
+    /* margin-top: 1px; */
+    position: relative;
+    top: -14px;
+}
+.desktop-coupons-redemption {
+    font-size: 14px;
+    color: #525252;
+    text-decoration: none;
+    font-weight: 400;
+    position: relative;
+    top: -4px;
+}
+.desktop-coupouns-price {
+  /* font-family: unset; */
+  font-size: 19px;
+  color: #212121;
+  margin-top: -10px;
+  font-weight: 700;
+}
+
+.column2 {
+    float: left;
+    width: 22%;
+    height: 80%;
+}
+
+
+/* desktop my coupon style start from here */
+
+.grid {
+  width: 100%;
+  height: 850px;
+  background-color: #fff0e7;
+}
+.desktop-coupons-text1 {
+  margin-left: 24px;
+  color: #282727;
+  font-size: 19px;
+ 
+}
+.desktop-coupons-text2 {
+  font-size: 15px;
+    color: #393939;
+    text-decoration: none;
+}
+
+.desktop-coupons-text4 {
+  font-size: 15px;
+  margin-left: 35px;
+  color: green;
+}
+.desktop-coupons-text5 {
+  font-size: 15px;
+ 
+  color: blue;
+}
+.desktop-coupons-text6 {
+  font-size: 15px;
+  margin-left: 35px;
+  color: red;
+}
+.column1 {
+  float: left;
+  width: 30%;
+  height: 80%;
+  margin-top: -18px;
+  position: relative;
+}
+.column2 {
+  float: left;
+  width: 20%;
+  height: 80%;
+}
+.column3 {
+  float: left;
+  width: 25%;
+  height: 80%;
+}
+
+
+
+.column4 {
+  float: left;
+  width: 25%;
+  height: 80%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+.desktop-tooltip .desktop-tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  height: 340px;
+  background-color: #ffffff;
+  color: black;
+  text-align: center;
+  padding: 5px 0;
+  margin-top: 70px;
+  left: 1%;
+  margin-left: -110px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+
+.desktop-tooltip:hover .desktop-tooltiptext {
+  visibility: visible;
+  border: solid 1px #e9c0a8;
+}
+.desktop-dot {
+  color: #d88350;
+  font-size: 40px;
+}
+input[type="desktop-text"] {
+  width: 89%;
+    padding-bottom: 10px;
+    padding-top: 7%;
+    height: 100%;
+    border: 1px solid #f5e3d8;
+    background-color: #fffaf7;
+    margin-top: -10px;
+}
+
+
+
+
+
+.outer-grid1 {
+  width: 859px;
+  height: 607px;
+  border: solid 1px #f5e3d8;
+  background-color: #ffffff;
+  margin: 0 auto;
+  max-width: 1280px;
+}
+.inner-grid1{
+  background-color: #FFFAF7;
+}
+.desktop-coupons-text2 {
+  font-size: 15px;
+    color: #393939;
+    text-decoration: none;
+}
+/* desktop style for  mycoupan end  from here */
+
+/* overhover css style start from here */
+.desktop-tooltip .desktop-tooltiptext {
+  
+    visibility: hidden;
+    color: black;
+    text-align: center;
+    padding: 5px 11px;
+    margin-top: -30px;
+    left: 1%;
+    margin-left: -209px;
+    position: absolute;
+    z-index: 1;
+    width: 328px;
+    height: 421px;
+    box-shadow: 0 0 4px 0 #e9c0a8;
+    border: solid 1px #e9c0a8;
+    background-color: #ffffff;
+    border: 1px solid red;
+
+  }
+
+
+
+/* overhover css style end  from here */
+desktop-tooltip {
+    position: relative;
+    border-bottom: 1px black;
+    text-decoration: none;
+    color: #6BC4F7;
+    top: -39px;
+    right: -486px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.desktop-tooltip .desktop-tooltiptext {
+    visibility: hidden;
+    color: black;
+    text-align: center;
+    padding: 5px 11px;
+    margin-top: -48px;
+    left: 1%;
+    margin-left: -209px;
+    position: absolute;
+    z-index: 1;
+    width: 329px;
+    height: 425px;
+    box-shadow: 0 0 4px 0 #e9c0a8;
+    border: solid 1px #e9c0a8;
+    background-color: #ffffff;
+    border: 1px solid red;
+    border-radius: 4px;
+}
+
+.termconditions-heading {
+    font-size: 21px;
+    font-weight: 400;
+    padding-left: -43px;
+    margin-left: -88px;
+    margin-top: 24px;
+    color: #424242;
+}
+.termcondition-item-list {
+    list-style: none;
+    text-align: initial;
+}
+
+.termcondition-item-lists {
+    padding: 14px 0;
+    font-size: 16px;
+    color: #7E7E7E;
+    font-weight: 400;
+    margin: 6px 0px;
+}
+ /* ul li::before {
+    content: "\2022";
+    color: #d88350;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+    font-size: 25px;
+    margin-top: -17px;
+    position: relative;
+    top: 3px;
+    left: -2px;
+} */
+
+.termandcondtion-dot{
+
+}
