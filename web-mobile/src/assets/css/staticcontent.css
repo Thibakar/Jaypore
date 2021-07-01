@@ -1,0 +1,328 @@
+/* *************SHIPPING POLICY START**************************** */
+.shipping_policymain_content {
+    margin: 32px 16px 16px 16px;
+    font-size: 16px;
+    padding-top: 10px;
+    padding-bottom: 24px;
+}
+.fb-tv-sz-m{
+    margin-top: -25px;
+    margin-left: 16px;
+}
+li.mb-co-wv-pn {
+    font-size: 20px;
+    color: chocolate;
+}
+hr {
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  text-align: inherit;
+
+}
+.shippin_policytxt{
+    font-size: 26px;
+    color: #212121;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-bottom: 16px;
+    margin-top: 32px;
+}
+/* collapsable panel css start */
+.accordion > input[type="checkbox"] {
+    position: absolute;
+    left: -100vw;
+  }
+  
+  .accordion .content {
+    overflow-y: hidden;
+    height: 0;
+    transition: height 0.3s ease;
+  }
+  
+  .accordion > input[type="checkbox"]:checked ~ .content {
+    height: auto;
+    overflow: visible;
+  }
+  
+  .accordion label {
+    display: block;
+    text-align: left;
+  }
+
+  .accordion {
+    margin-bottom: 1em;
+  }
+  .abt-us-context-lp {
+    background-color: white;
+    margin-top: -27px;
+}
+  
+
+  /* ***************collapsable panel css end*************** */
+  /* ***************SHIPPING POLICY END***************** */
+  /* ***************************Help css start****************************************************** */
+  .helped_policytxt{
+    font-size: 26px;
+    color: #212121;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-bottom: 16px;
+}
+.helped_policymain_content{
+    margin: 32px 16px 16px 16px;
+    font-size: 16px;
+    padding-bottom: 24px;
+    padding-top: 32px;
+
+}
+
+ p.aboutUsJayprmobile {
+        color: #BB4225;
+        font-size: 18px;
+        font-family: sans-serif;
+        font-weight: 600;
+
+    }
+    .whatisJayprmobile{
+        font-size: 18px;
+        font-family: sans-serif;
+        font-weight: 600;
+    }
+/* ************************************Help css End********************************************** */
+/* ************************CAREERS css start*********** */
+.careers_policytxt{
+    font-size: 26px;
+    color: #212121;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-bottom: 16px;
+}
+.careers_policymain_content{
+    margin: 32px 16px 16px 16px;
+    font-size: 16px;
+    padding-bottom: 24px;
+    padding-top: 32px;
+
+
+}
+    .jayporeWork-contactus{
+        color: #03A9F4;
+        font-weight: 600;
+    }
+/* *****************CAREERS css End************ */
+/* About us  css start */
+.about-us-who-are{
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+/* About us  css End */
+/* Return css start */
+.returns_policymain_content {
+    margin: 32px 16px 16px 16px;
+    font-size: 16px;
+    padding-top: 32px;
+    padding-bottom: 24px;
+    line-height: 28px;
+}
+.returns_policytxt{
+    font-size: 26px;
+    color: #212121;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-bottom: 16px;
+}
+.returnspolicyheadline_text{
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.number_systemId{
+font-weight: 600;
+}
+.email-jaypore_client{
+    font-family: sans-serif;
+    color: #03A9F4;
+    position: relative;
+}
+/* Return css End */
+/* contact us css start */
+.hzl_row_stylefile{
+border: 1px solid bisque;
+}
+.plus-icon-im-e {
+    position: relative;
+    left: 20em;
+    width: 17px;
+}
+.minus-icon-im-m{
+    position: relative;
+    left: 20em;
+    width: 17px;
+}
+.pd-btn-18mobile{
+    padding-bottom: 18px;
+}
+.po-rl-ft-pa{
+    position: relative;
+  
+}
+ .chatIcon-e-pos-a {
+        padding-left: 16px;
+        font-size: 16px;
+        font-weight: 600;
+    }
+    .plus-icon-im-c{
+    position: relative;
+        left: 168px;
+        width: 17px;
+    } 
+    .minus-icon-im-x{
+        position: relative;
+        left: 168px;
+        width: 17px;
+    } 
+    img.plus-icon-im-s {
+        position: relative;
+        left: 251px;
+        width: 17px;
+    }
+    .minus-icon-im-y{
+        position: relative;
+        left: 251px;
+        width: 17px;
+    }  
+    .email-p-e-pos-a {
+      
+        font-size: 16px;
+        font-weight: 600;
+    } 
+    .mail-ja-cont-us{
+    color: #03A9F4;
+    font-size: 16px;
+    } 
+    img.plus-icon-im-i {
+        position: relative;
+        left: 20em;
+        width: 17px;
+    }
+    .minus-icon-im-p{
+        position: relative;
+        left: 20em;
+        width: 17px;
+    }
+/* contact us css End */
+/* terms css start */
+p.termsjay-m-s-h-tag {
+    color: #BB4225;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.prohibited-a-ctivities{
+    font-size: 16px;
+    font-weight: 600;
+}
+.terms_policymain_content {
+    margin: 32px 16px 16px 16px;
+    font-size: 16px;
+    padding-bottom: 24px;
+    padding-top: 32px;
+    line-height: 28px;
+}
+span.he-e-id-ju-p {
+    font-family: sans-serif;
+}
+.leftsideterm-condition{
+    margin-left: 8px;
+}
+span.jayporegmailcolor {
+    color: #03A9F4;
+    font-family: sans-serif;
+}
+/* ======================================================= */
+.hzlrowheaderMenuBar{
+    border: 1px solid #f5e3d8;
+
+}
+.headerMenustyle01 {
+    border: 1px solid darkgray;
+    background-color: #fff0e7;
+    /* padding-bottom: 78px; */
+
+}
+.what-qu-c-mb{
+ font-weight: 600;
+ font-size: 16px;
+ font-family: sans-serif;
+
+}
+.mr-lk-8-p{
+    margin-left: 8px;
+}
+    .info-m-p-vt-us{
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+}
+.pw-nd-ad-in-lv{
+    font-weight: 600;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 16px;
+}
+a.abt-u-ftv-p-d {
+    color: white;
+}
+.cnt-us-st-sv-pg{
+    background-color: white;
+    margin-top: -27px;
+}
+.sh-p-policy-alg-itm{
+    background-color: white;
+    margin-top: -27px;
+    line-height: 25px;
+}
+.re-tn-pvt-con{
+    background-color: white;
+    margin-top: -27px;
+}
+.hlp-context-i-em{
+    background-color: white;
+    margin-top: -27px;
+}
+    .trm-pol-cont-coxt{
+    background-color: white;
+    margin-top: -27px; 
+    }
+    .rt-priv-policy-contc{
+        background-color: white;
+        margin-top: -27px; 
+    }
+    .career-policy-co-outer{
+        background-color: white;
+        margin-top: -27px;  
+    }
+    .blogs-prv-p-contc{
+        background-color: white;
+        margin-top: -27px; 
+    }
+    .sh-outer-coverd-c-pvp{
+        background-color: white;
+        margin-top: -27px; 
+    }

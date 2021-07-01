@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="18px" viewBox="0 0 11 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Forward</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.1-Home-Page-2.0---Full-Length---Desktop" transform="translate(-61.000000, -405.000000)" fill="#C4C4C4">
+            <g id="03-Big-Banners" transform="translate(0.000000, 60.000000)">
+                <g id="Left-Arrow" transform="translate(68.000000, 354.000000) scale(-1, 1) translate(-68.000000, -354.000000) translate(48.000000, 334.000000)">
+                    <path d="M17.5449649,28.677115 L26.2720393,20.2962125 C26.4426536,20.1327849 26.4426536,19.8675294 26.2720393,19.7036827 L17.5449649,11.3227802 C17.4598759,11.2410664 17.3481694,11.2 17.2364628,11.2 C17.1247563,11.2 17.0130497,11.2410664 16.9279607,11.3227802 C16.7573464,11.4866269 16.7573464,11.7518824 16.9279607,11.91531 L25.346533,19.9999476 L16.9279607,28.0845852 C16.7573464,28.2484319 16.7573464,28.5136874 16.9279607,28.677115 C17.098575,28.8409617 17.3747869,28.8409617 17.5449649,28.677115" id="Forward"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

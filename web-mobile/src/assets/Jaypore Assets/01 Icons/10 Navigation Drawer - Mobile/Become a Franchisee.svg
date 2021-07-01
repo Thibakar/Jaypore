@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="60.3841126%" x2="0%" y2="60.3841146%" id="linearGradient-1">
+            <stop stop-color="#F01E6C" offset="0%"></stop>
+            <stop stop-color="#FC5D1F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.1-Navigation-Drawer---Full-Length---Mobile" transform="translate(-16.000000, -824.000000)">
+            <g id="Group-2" transform="translate(0.000000, 813.000000)">
+                <g id="Group" transform="translate(16.000000, 11.000000)">
+                    <circle id="Oval-2" fill="url(#linearGradient-1)" cx="13.5" cy="13.5" r="13.5"></circle>
+                    <path d="M11.0625,15.1254063 L10.25,15.9375 L16.75,15.9375 L15.9375,15.1254063 L11.0625,15.1254063 Z M18.375,7 L8.625,7 L7,11.0625 C7,11.6625313 7.32865625,12.1805 7.8125,12.4620312 L7.8125,20 L9.4375,20 L10.25,19.1875 L16.75,19.1875 L17.5625,20 L19.1875,20 L19.1875,12.4620312 C19.6713437,12.1805 20,11.662125 20,11.0625 L18.375,7 Z M17.5625,16.75 L9.4375,16.75 L9.4375,12.4620312 C9.92134375,12.1805 10.25,11.6625313 10.25,11.0625 C10.25,11.9599062 10.9775938,12.6875 11.875,12.6875 C12.7724062,12.6875 13.5,11.9599062 13.5,11.0625 C13.5,11.9599062 14.2275938,12.6875 15.125,12.6875 C16.0224062,12.6875 16.75,11.9599062 16.75,11.0625 C16.75,11.6625313 17.0786563,12.1805 17.5625,12.4620312 L17.5625,16.75 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

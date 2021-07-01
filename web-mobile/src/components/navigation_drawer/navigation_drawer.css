@@ -1,0 +1,98 @@
+
+.container{
+    margin: 0 auto
+    }
+    .navigation-Drawer-header{
+        margin:75; 
+    }
+    .brand-color{
+        color:#BB4225;
+        letter-spacing: 3px;
+    }
+    .login-user-details-div{
+        background-color:#FFFAF7;
+    }
+    .login-user-icon{
+        width:24px;
+        height:24px;
+        margin-Left:16px;
+    }
+    .login-user-userName{
+        font-weight: bolder;
+        margin-left: 15px;
+        margin-top: 5px;
+    font-size: 16px;
+    }  
+    .login-user-userEmail{
+        margin: 1px;
+        margin-left: 38px;
+        font-size: 12px;
+    }  
+    .login-user-userContact{
+        margin-left: 36px;
+        font-size: 12px;
+    } 
+
+    .login-user-guestUser{
+        font-weight:bolder;
+       margin-left: 9px;
+    font-size: 20px;
+    margin-top: 13px
+    }  
+    .login-user-notLogged{
+        margin: 1px;
+        font-size: 14px;
+        margin-left: 40px;
+        margin-top: 10px;
+        text-align: left;
+    }  
+    .login-user-loginSignup{
+        margin-left: 40px;
+        font-size: 14px;
+        margin-bottom: 10px;
+        color: #59BFF6;
+        margin-top: 3px;
+        text-align: left;
+
+    } 
+
+    .userIconNameRow{
+        display:'flex';
+        padding-Top:20;
+    }
+    .clothing{
+        margin-Left:5px;
+        color: black;
+        font-size: 15px;
+    }
+    .login-user-ReferEarnIcon{
+        width:24px;
+        height:24px;
+        margin-Left:15;
+    }
+    .referEarn{
+        margin-Left:10px;
+        width: 160px;
+        color: black;
+        font-size: 15px;
+    }
+
+    .changeCurency{
+        width: 20px;
+        color: #03A9F4;
+        margin-left: 8%;
+        font-size: 14px;
+    }
+    .forward-Logo-Style{
+        width: 12px;
+        height: 8px;
+        line-height: 52px;
+        margin-Right: 10px;
+        margin-top: 21px !important;
+        transform:rotate(-90deg); 
+    }   
+    a > h6:focus{
+        text-decoration-line: none;
+    }
+  
+

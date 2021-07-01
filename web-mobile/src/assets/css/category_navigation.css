@@ -1,0 +1,203 @@
+/* OLD */
+.tabinator {
+  text-align: left;
+
+  background: #fff;
+  width: 100%;
+}
+
+.tabinator input {
+  display: none;
+}
+.tabinator label {
+  color: black;
+  white-space: nowrap;
+}
+.tabinator label:before {
+  content: "";
+  display: block;
+  width: 100%;
+  background-color: #fff;
+  padding-top: 10px;
+
+  font-size: unset;
+  z-index: 10;
+}
+.tabinator input:checked + label {
+  color: #000;
+  padding-bottom: 13px;
+  border-bottom: 2px solid #b9432c;
+}
+.tabinator input:checked + label:after {
+  display: block;
+  content: "";
+}
+#content1,
+#content2,
+#content3,
+#content4 {
+  display: none;
+}
+
+#clothing:checked ~ #content1,
+#jewelry:checked ~ #content2,
+#accesories:checked ~ #content3,
+#homeAndDecor:checked ~ #content4 {
+  display: block;
+}
+/* =========================Accordian========================== */
+.accordion-CN > input[type="checkbox"] {
+  position: absolute;
+  left: -100vw;
+}
+
+.accordion-CN .content {
+  overflow-y: hidden;
+  height: 0;
+  transition: height 0.3s ease;
+}
+
+.accordion-CN > input[type="checkbox"]:checked ~ .content {
+  height: auto;
+  overflow: visible;
+  background: #fffaf7;
+}
+
+.accordion-CN label {
+  display: block;
+  text-align: left;
+}
+.accordion-CN {
+  margin-bottom: 1em;
+}
+
+.accordion-CN > input[type="checkbox"]:checked ~ .content {
+  /* padding: 15px; */
+  /* border: 1px solid #e8e8e8; */
+  border-top: 0;
+}
+
+.accordion-CN .handle {
+  margin: 0;
+  font-size: 1.125em;
+  line-height: 1.2em;
+}
+
+.accordion-CN label {
+  color: #333;
+  cursor: pointer;
+  font-weight: normal;
+  /* padding: 10px; */
+  background: #fdf4ed;
+  margin-bottom: 0px;
+}
+
+.accordion-CN label:hover,
+.accordion-CN label:focus {
+  /* background: brown; */
+  cursor: pointer;
+}
+
+.accordion-CN .handle label:before {
+  font-family: "fontawesome";
+  content: "\f054";
+  display: inline-block;
+  margin-right: 10px;
+  font-size: 0.58em;
+  line-height: 1.556em;
+  vertical-align: middle;
+}
+
+.accordion-CN > input[type="checkbox"]:checked ~ .handle label:before {
+  content: "\f078";
+}
+.scrollCatNav {
+  overflow-x: scroll;
+  display: inline-block;
+}
+/* ===============================tab======================================== */
+.cat-tabs {
+  position: relative;
+  min-height: calc(100vh - 55px);
+  clear: both;
+  border-top:  solid 1px #f5e3d8;
+  margin: 0;
+  width: 100%;
+  -webkit-overflow-scrolling: touch;
+  white-space: nowrap;
+  overflow-x: scroll;
+}
+
+.cat-tab {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.cat-tab label {
+  background: #fff;
+  padding: 10px 24px;
+  border: none;
+  margin: 0px;
+  cursor: pointer;
+  position: relative;
+  left: 1px;
+  font-size: 14px;
+  color: #757575;
+}
+
+.cat-tab [type="radio"] {
+  display: none;
+}
+
+.cat-tab .content {
+  position: fixed;
+  white-space: normal;
+  top: 100px;
+  left: 0;
+  background: white;
+  height:calc(100vh -100px);
+  right: 0;
+  bottom: 0;
+  padding: 0px !important;
+  width: 100%;
+  border-top: 2px solid #fff0e7;
+  background-color: #ffffff;
+}
+
+.cat-tab [type="radio"]:checked ~ label {
+  background: white;
+  border-bottom: 2px solid #bb4225;
+  color: #212121;
+  z-index: 2;
+}
+
+.cat-tab [type="radio"]:checked ~ label ~ .content {
+  z-index: 1;
+}
+.category-item, .category-sel{
+  padding:8px 8px 8px 16px;
+  width: 100%;
+  height: 75px;
+  box-shadow: inset 0 -1px 0 0 #fff0e7;
+  display:block;
+}
+.category-sel{
+  background-color: #fffaf7;
+}
+.category-img{
+  width: 60px;
+  height: 100%;
+  object-fit: cover;
+  display: inline-block;
+}
+.category-name{
+  display: inline-block;
+  margin-left: 24px;
+
+}
+.arrow-category{
+  float: right;
+  display: inline-block;
+  margin-top: 23px;
+  clear: right;
+}

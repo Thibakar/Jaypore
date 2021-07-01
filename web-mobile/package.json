@@ -1,0 +1,28 @@
+{
+  "name": "web-mobile",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "./",
+  "dependencies": {
+    "@lrnwebcomponents/social-media-icons": "^2.4.0",
+    "bootstrap": "^4.4.1",
+    "react": "^16.12.0",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-dom": "^16.12.0",
+    "react-horizontal-scrolling-menu": "^0.7.5",
+    "react-image-scroller": "^0.3.0",
+    "react-modal": "^3.11.1",
+    "react-responsive-carousel": "^3.1.51",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "0.9.x",
+    "react-sidebar": "^3.0.2",
+    "social-media-icons-react": "^1.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

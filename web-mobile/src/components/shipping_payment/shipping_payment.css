@@ -1,0 +1,1302 @@
+
+.container{
+        margin: 0 auto
+}
+
+.header-div{
+    margin-Left:16px;
+     
+}
+
+.address-font{
+    margin-Top:17px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 30px;
+    text-transform: capitalize;
+}
+
+.payment-Amount-Text-CSS{
+    margin-left: 16px;
+    font-size: 14px;
+    text-transform: capitalize;
+}
+
+.payment-Amount-CSS{
+    font-size: 14px;
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+.new-Shipping-Address{
+    font-size: 14px;
+    margin-left: 25px;
+    padding-top: 20px;
+    text-transform: capitalize;
+}
+
+.input-text-Area{
+    border: 1px solid #e9c0a8 !important;
+    margin-left: 105px;
+    border-radius: 5px;
+    height: 36px;
+    width: 28px;
+    text-align: left;
+    font-size: 18px;
+}
+.textArea{
+    border: 1px solid #e9c0a8 !important;
+    border-radius: 5px;
+    height: 85px;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 20px;
+    font-size: 18px;
+    width: 100%;
+}
+
+
+.address-Type-div{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.address-Type-text{
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin-bottom: -8px;
+}
+.button-boarder{
+    border-color: red;
+}
+.cancel-btn-style{
+   background-color: white !important;
+   border: 2px solid #e9c0a8;
+   color: #bb4225;
+   width:35%;
+   height:48px;
+   border-Radius:5px;
+   margin-Left:10px;
+   font-size: 18px;
+   padding-top: 10px;   
+}
+.saveProceed-btn-style{
+    width: 54%;
+    height: 48px;
+    border-Radius: 5px;
+    margin-Left: 11px;
+    background-Color: #C0C0C0; 
+    font-size: 18px;
+    padding-top: 11px;
+}
+
+.form-div{
+    border: 0.25px solid #e9c0a8;
+    margin: 16px;
+    padding: 8px;
+    background-color: white;
+    border-radius: 5px;
+}
+.div-borader{
+    margin-top: 20px;
+    border: 0.25px solid #e9c0a8;
+}
+.new-billing-Address{
+    margin-top: 14px;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 8px;
+
+}
+.dropDown-Logo-style{
+
+
+
+    margin-left: 259px;
+    position: absolute;
+    margin-top: 23px;
+    width: 14px; 
+}
+.div-pay-info{
+    margin-left:22px;
+}
+.payment-related-Msg{
+    border: 2px solid #88C343 !important;
+    width: '200%';
+    height: '70%';
+    margin-left: 13px;
+    margin-right: 22px;
+    margin-top: 16px;
+    border-radius: 5px;
+}
+.SecureLock-Logo-style{
+    margin-top:20px;
+    margin-left: 12px;
+}
+.secure-text{
+    margin-left: 36px;
+    margin-top: -23px;
+    text-transform: capitalize;
+    color: #88C343
+}
+.america-card{
+    margin-left: 40px;
+}
+.visa-card{
+    margin-left: 12px;
+}
+.master-card{
+    margin-left: 12px;
+}
+.makePayment-btn{
+    height: 50px;
+    border-radius: 5px;
+    background-color: rgb(187, 66, 37);
+    margin-top: 12px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.pay-info-text{
+    font-weight: bolder;
+    font-size: 18px;
+    margin-left: 16px;
+    margin-top: 15px;
+}
+.div-bottom-border{
+    border-bottom-width: #88C343 solid !important;
+}
+.delete-icon{
+    margin-right: 10%;
+}
+.edit-icon{
+    margin-left: 96%;
+    margin-top: -33px;
+    /* margin-right: 5%; */
+}
+.userName-sty{
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 14px;
+}
+.user-Address-sty{
+    margin-top: 14px;
+    text-transform: capitalize;
+    font-size: 14px;
+}
+.saveAddress-form-div{
+    border: 0.25px solid #e9c0a8;
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    padding-bottom: 0px;
+    border-radius: 5px;
+}
+.Arrow {
+    width: 10px;
+    height: 6px;
+    transform: rotate(-270deg);
+    background-color: #d88350; 
+} 
+.backword-logo-icon{
+    width: 16px;
+    height: 21px;
+    margin-Right: 10px;
+    margin-top: 19px; 
+}
+.save-address-new-billing-Address{
+    font-size: 14px;
+    text-transform: capitalize;
+}
+.save-address-dropDown-Logo-style{
+    width: 14px;
+    height: 19px;
+}
+.collapsible-panal-newAddress{
+   
+ 
+} 
+.home-radio{
+    margin-left: 11px;
+    margin-top: 10px;
+    font-size: 17px;
+    font-family: none;
+}
+.radio-btn{
+    margin-left: 14px;
+}
+.checkbox-btn{
+    width: 40px;
+    height: 40px;
+    color: #bb422c;
+    border-width: 10px solid;
+    margin-left: 10px;
+}
+
+.checkbox-full-text{
+    margin-left: 34px;
+    font-size: 11px;
+    margin-top: 3px;
+    position: absolute;
+}
+.checkbox-empty-text{
+    margin-left: 28px;
+    font-size: 11px;
+    margin-top: 1px;
+    position: absolute;
+}
+.save-input-text-Area{
+    border: 1px solid #e9c0a8 !important;
+    margin-left: 105px;
+    border-radius: 5px;
+    height: 36px;
+    width: 155pxcollapsible-panal-newAddress;
+    text-align: left;
+    font-size: 18px;
+}
+.save-textArea{
+    border: 1px solid #e9c0a8 !important;
+    border-radius: 5px;
+    height: 85px;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 20px;
+    font-size: 18px;
+}
+.select-Payment-options{
+    font-Size: 14px;
+    margin-left: 16px;
+}
+input:focus::placeholder {
+    color: transparent;
+  }
+textarea:focus::placeholder {
+    color: transparent;
+}
+.paypal-payment-related-Msg{
+    border: 2px solid #298fc2 !important;
+    width: '200%';
+    height: '70%';
+    margin-left: 13px;
+    margin-right: 22px;
+    margin-top: 16px;
+    border-radius: 5px;
+}
+
+.paypal-secure-text{
+    margin-left: 36px;
+    margin-top: -23px;
+    text-transform: capitalize;
+    color: #298fc2;
+    margin-top:10px;
+    margin-left: 12px;
+    font-size: 14px;
+}
+.paypal-america-card{
+    margin-left: 13px;
+} 
+.payment-Options{
+    font-size: 14px;
+    margin-left: 16px;
+    padding-top: 20px;
+    text-transform: capitalize;
+}
+.payment-option-radio-btn{
+    margin: 1px;
+    margin-left: 10px;
+
+}
+.payment-option-text{
+    margin-left: 18px;
+    font-size: 14px;
+    margin-top: -4px;
+}
+.borader{
+    margin-top: 20px;
+    border: 0.25px solid #edd4c5;
+}
+.payment-borader{
+    margin-top: 8px;
+    border: 0.25px solid #edd4c5;
+}
+.payment-radio-btn{
+    margin-left: 4px;
+    margin-top: -15px;
+}
+.pay-rupees-btn{
+    width: 97%;
+    height: 60px;
+    border-radius: 5px;
+    background-color: rgb(187, 66, 37);
+    margin-top: 6px;
+    margin-left: 1.5%;
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+.country-dropdown-btn{
+    position: absolute;
+    margin-left: -25px;
+    margin-top: 26px;
+    width: 14px;
+}
+.text-Area-Corner-Logo{
+    transform: rotate(-411deg);
+    margin-left: -16px;
+    margin-top: 73px;
+    width: 13px;
+    position: absolute;
+}
+.div-borader-SP{
+    border: 0.25px solid #e9c0a8;
+}
+.save-address-open-dropDown-Logo-style {
+    width: 14px;
+    height: 19px;
+    transform: rotate(-181deg);
+}
+.billing-Address-dropDown-Logo-style {
+    margin-left: 250px;
+    position: absolute;
+    margin-top: 23px;
+    width: 14px;
+}
+.make-borader{
+    margin-top: 3px;
+    border: 1px solid #edd4c5;
+
+}
+
+.save-borader{
+    margin-top: 3px;
+    border: 0.25px solid #edd4c5 !important;
+}
+.cash-on-delivery-varify{
+    border: 1px solid #f3a320 !important;
+    width: '200%';
+    height: '70%';
+    margin-left: 16px;
+    margin-right: 22px;
+    margin-top: 16px;
+    border-radius: 5px;
+}
+.cash-on-delivery-varify-text{
+    font-size: 14px;
+    margin: 10px;
+    text-align: left;
+    color: #f3a320;
+}
+.cash-on-delivery-varify-mobile{
+    border: 1px solid #e9c0a8 !important;
+    border-radius: 5px;
+    height: 46px;
+    text-align: left;
+    font-size: 18px;
+}
+.tax-Included-Logo{
+    margin-top: -15px;
+    margin-left: -6px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.tax-Included-text{
+    margin-left: 54px;
+    font-size: 14px;
+    position: absolute;
+    color: #7BC788;
+}
+.tax-Included-collapsible{
+    width: 14px;
+    height: 19px;
+}
+.pay-with-paypal-text{
+    font-size: 14px;
+    margin-top: -4px;
+
+}
+
+.pay-with-paypal-forwardLogo{
+    width: 14px;
+    height: 19px;
+    margin-top: -6px;
+    transform: rotate(-92deg);
+}
+.reCaptcha{
+    border: 2px solid #bdbdbd !important;
+    width: '200%';
+    height: '70%';
+    margin-left: 13px;
+    margin-right: 22px;
+    margin-top: 8px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.reCaptcha-row-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly
+}
+.reCaptcha-checkbox-Logo{
+    margin-left: 16px;
+}
+.reCaptcha-logo-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.makePayment-btn-disable{
+    height: 50px;
+    border-radius: 5px;
+    background-color:#bdbdbd;
+    margin-top: 12px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.card-header-div{
+  padding-left:16px;
+  padding-right: 16px;
+  display: flex;
+  flex-direction: row;     
+}
+.card-payableAmt-div{
+    padding-left:16px;
+    padding-right: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 16px;
+}
+.card-payment-Amount-Text{
+    font-size: 14px;
+    text-transform: capitalize;
+    font-family: 'WorkSans-m';
+}
+.card-payment-Amount{
+    font-size: 14px;
+    font-weight: bold;
+}
+.card-new-Shipping-Address{
+    font-size: 14px;
+    margin-left: 16px;
+    margin-top: 16px;
+    text-transform: capitalize;
+    padding-top: 21px;
+    font-family: WorkSans-m;
+    color: #7B7876;
+}
+/* .card-saveAddress-form-div{
+    border: 0.25px solid #e9c0a8;
+    margin: 16px;
+    padding-left:16px;
+    padding-right: 16px;
+    background-color: white;
+    padding-bottom: 0px;
+    border-radius: 5px;
+    margin-Top:20px;
+} */
+.card-saveAddres-btns-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 12px;
+    margin-right: -3px;
+}
+.card-saveAddres-btns-div-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.delete-Logo{
+    margin-right: 24px;
+}
+.card-userName-sty{
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 14px;
+    margin-top: 16px;
+}
+.card-saveAddress-form-div{
+    border: 1px solid #e9c0a8;
+    margin: 16px;
+    padding: 16px;
+    background-color: white;
+    padding-bottom: 0px;
+    border-radius: 5px;
+}
+.add-new-shipping-adds-box{
+    display: flex;
+    flex-direction: row;
+    background-Color: white;
+    justify-Content: space-between;
+    height: 36px;  
+}
+.add-new-shipping-adds-box-text{
+    font-size: 14px;
+    text-transform: capitalize;
+}
+.add-new-shipping-adds-box-downLogo{
+    width: 14px;
+    height: 19px;   
+}
+.pay-with-paypal-div{
+    border: 1.5px solid #298fc2 !important;
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    height: 48px;
+    margin: 16px;
+    padding: 16px;
+    border-radius: 5px;
+}
+.card-pay-info-text{
+    font-weight: bolder;
+    font-size: 18px;
+    margin-left: 17px;
+    margin-top: 24px;
+    margin-bottom: -7px;
+}
+.card-pay-with-paypal-forwardLogo{
+    width: 14px;
+    height: 19px;
+    transform: rotate(-92deg);
+    margin-left: 106px;
+    margin-top: -2px;
+}
+.card-pay-info-text{
+    font-weight: bolder;
+    font-size: 18px;
+    margin-left: 17px;
+    margin-top: 24px;
+}
+.card-payment-related-Msg{
+    border: 2px solid #88C343 !important;
+    width: '200%';
+    height: '70%';
+    margin: 16px;
+    padding: 16px;
+    border-radius: 5px;
+}
+.card-secure-text{
+    margin-left: 28px;
+    margin-top: -23px;
+    text-transform: capitalize;
+    color: #88C343;
+    font-size: 14px;
+}
+.input-text-Area-card{
+    background-color: white; 
+    border: 1px solid #e9c0a8 !important;
+    text-align: left;
+    font-size: 18px;
+    border-radius: 5px;
+}
+.card-months-expiry{
+    width: 14px;
+    height: 19px;
+    position: absolute;
+}
+
+.new-Shipping-Address-SP{
+    margin-left: 16px;
+    font-size: 14px;
+    padding-top: 18px;
+}
+.form-div-SP{
+    border: 0.25px solid #e9c0a8;
+    margin: 16px;
+    padding: 16px;
+    background-color: white;
+    border-radius: 5px;
+}
+.SP-header-div{
+    padding-left:16px;
+    padding-right: 16px;
+    display: flex;
+    flex-direction: row;
+    border-bottom-width: 2px solid !important;
+}
+.input-text-Area-SP{
+    border: 1px solid #e9c0a8 !important;
+    margin-left: 105px;
+    border-radius: 5px;
+    height: 47px;
+    width: 28px;
+    text-align: left;
+    font-size: 18px;
+}
+.textArea-SP{
+    border: 1px solid #e9c0a8 !important;
+    border-radius: 5px;
+    height: 110px;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 20px;
+    font-size: 18px;
+    width: 100%;
+}
+.text-Area-Corner-Logo-SP{
+    transform: rotate(-411deg);
+    margin-left: -14px;
+    margin-top: 99px;
+    width: 13px;
+    position: absolute;
+}
+.address-Type-div-SP{
+    margin-top: 12px;
+    font-size: 14px;
+    font-family: WorkSans-m;
+}
+.address-Type-div{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.borader-redio-SP{
+    border: 0.25px solid #f5e3d8;
+}
+.billing-checkbox-ful{
+    display: 'flex';
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.billing-checkbox-full-text{
+    font-size: 11px;
+    margin-left: 25px;
+    margin-top: -19px;
+    font-family: WorkSans-r;
+    color: #7B7876;
+}
+ .cancel-save-btn-div-SP{
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     margin: 8px;
+ }
+ .cancel-btn-SP{
+    background-color: white !important;
+    border: 2px solid #e9c0a8;
+    color: #bb4225;
+    width:50%;
+    height:48px;
+    border-Radius:5px;
+    font-size: 15px;
+    justify-content: center;
+    text-align: center;
+ }
+ .saveProceed-btn-SP{
+    width: 80%;
+    height: 48px;
+    border-Radius: 5px;
+    background-Color: #babcbf; 
+    font-size: 15px;
+    justify-content: center;
+    text-align: center;
+    margin-left: 8px;
+}
+.new-billing-Address-div-SP{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.new-billing-Address-SP{
+    margin-top: 10px;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: 14px;
+}
+.billing-Address-dropDown-Logo-SP{
+    width: 14px;
+}
+
+.card-payment-related-Msg-SP{
+    border: 2px solid #88C343 !important;
+    height: 150px;
+    margin:16px;
+    border-radius: 5px;
+}
+.secureLock-Logo-SP{
+    padding-right: 0px;
+    position: absolute;
+
+  
+}
+.secure-lock-text-SP{
+    margin-left: 24px;
+    text-transform: capitalize;
+    color: #88C343;
+    font-size: 14px;
+}
+.payment-Secure-box-SP{
+    display: flex;
+    flex-direction: row;
+    margin-left: 16px;
+    margin-top: 16px;
+
+}
+.makePayment-btn-enable-SP{
+    height: 50px;
+    border-radius: 5px;
+    background-color: rgb(187, 66, 37);
+    font-size: 16px;
+    justify-content: center;
+    text-align: center;
+}
+
+.paypal-payment-related-Msg-SA{
+    border: 2px solid #298fc2 !important;
+    height: 150px;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 16px;
+    border-radius: 5px;
+}
+.paypal-logo {
+    width: 90px;
+    height: 22px;
+    margin-left: 13px;
+  }
+  .userName-Contact-Icon{
+    display: flex;
+    flex-direction: row;
+  }
+  .contact-Icon-contact-No{
+    display: flex;
+    flex-direction: row;
+  }
+  .phone-Logo{
+    margin-left: 16px;
+    margin-top: 5px;
+  }
+  .modile-No{
+    margin-top: 16px;
+    margin-left: 5px;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  .payPal-inputBox{
+
+
+  }
+  .payPal-input-logo{
+    margin-left: 60px;
+    width: 56px;
+    margin-top: -64px;
+  }
+  .cash-on-delivery-varify-SA{
+    border: 1px solid #f3a320 !important;
+    width: '200%';
+    height: '70%';
+    margin-left: 13px;
+    margin-right: 16px;
+    margin-top: 16px;
+    border-radius: 5px;
+}
+.cash-on-delivery-varify-text-SA{
+    font-size: 14px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    text-align: left;
+    color: #f3a320;
+}
+.e-container{
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .e-section{
+    height: 50px;
+    width: 100%;
+    background-color: #fffaf7;
+    border-left: 4px solid #f3a320;
+    border-radius: 4px;
+  } 
+   
+  .e-textSection{
+  }
+  .tap-Here{
+      color: #298fc2;
+      font-size: 15px;
+      font-weight: bold;
+      text-transform: uppercase;
+  }
+  .card-estimate-shipping-tax-div{
+    border: 1px solid #e9c0a8;
+    margin: 16px;
+    padding-left:16px;
+    padding-right: 16px;
+    background-color: white;
+    padding-bottom: 0px;
+    border-radius: 5px;
+    margin-Top: -8px;
+}
+.card-estimate-shipping-tax-add-box{
+    display: flex;
+    flex-direction: row;
+    background-Color: white;
+    justify-Content: space-between;
+    height: 47px;
+    padding-top: 20px;  
+}
+.charges-text{
+    font-size: 14px;
+    margin-left: 16px;
+    font-weight: bold;
+}
+.charges-div-borader{
+    margin-top: 16px;
+    border: 1px solid #e9c0a8;
+    margin-left: -16px;
+    margin-right: -16px;
+}
+.text-for-estimate-shipping{
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 20px;
+    justify-content: space-evenly;
+}
+.country-tax-div{
+    display: flex;
+    flex-direction: row;
+    margin-top: 8px;
+}
+.checkArrowLogo{
+    width: 13px;
+    height: 13px;
+    margin-top: 3px;
+    margin-right: 8px;
+}
+.total-charges-tax-div{
+    display: flex;
+    flex-direction: row;
+    margin-top: 8px;
+}
+.tax-on-delivery-text{
+    border: 1px solid #f3a320 !important;
+    width: '200%';
+    height: '70%';
+    border-radius: 5px;
+    margin-bottom: 16px;
+    margin-top: 0px;
+}
+.color-gr{
+    color: #88C343;
+}
+.input-text-card-date{
+    background-color: white; 
+    border: 1px solid #e9c0a8 !important;
+    text-align: left;
+    font-size: 18px;
+    border-radius: 5px;
+    justify-content: left;
+    text-align: left;
+}
+.robot-text{
+    margin-top: 24px;
+    font-size: 15px;
+    display: flex;
+    justify-content: flex-start;
+}
+.reCaptcha-Logo{
+    margin-left: 40px;
+}
+
+.promotional-code-div{
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.promotional-div{
+    height: 50%;
+    width: 100%;
+    background-color: #fffaf7;
+    border-left: 4px solid #f3a320;
+    border-radius: 4px;
+  }
+  .promotional-text-div{
+    font-family: 'WorkSans-m';
+    padding-left: 10px;
+    padding-top: 0px;
+  }
+  .bank-options-header-div{
+    padding-left:16px;
+    padding-right: 16px;
+    display: flex;
+    flex-direction: row;
+    padding-top: 40px; 
+    padding-bottom: 10px;
+    border-bottom-width: 2px solid !important;
+    box-shadow: 0 2px 4px 0 #edd4c5;
+}
+.bank-options-crossLogo{
+    width:16px;
+    height:14px;
+}
+.bank-options-Header{
+    font-weight: bolder;
+    font-size: 14px;
+    margin-top: -4px;
+    margin-left: 40px;
+}
+.search-bank-input{
+    margin-left: 105px;
+    border-radius: 3px;
+    height: 40px;
+    margin-left: 19px;
+    width: 70%;
+    padding-left:38px !important;  
+    font-size: 12px; 
+}
+.popular-bank-text{
+    text-transform: uppercase;
+    font-size: 12px;
+    margin-left: 16px;
+    margin-top: 16px;
+    width: 130px;
+    height: 16px;
+}
+.popular-bank-div{
+    display: flex;
+    flex-direction: row;
+     background-color: white;
+     margin-top: 10px;
+     margin-Left:15px;
+}
+.bank-Name-text{
+    font-size: 13px;
+    width: 130px;
+    height: 16px;
+    margin-left: 24px;
+    margin-top: 8px;
+}
+.bank-select-radio{
+}
+.all-bank-font{
+    font-size: 13px;
+    margin-Left:16px;
+}
+.search-box-btn{
+    width: 90px;
+    height: 40px;
+    background-color: #bb4225;
+    margin-top: 8px;
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 3px;
+    justify-content: center;
+    text-align: center;
+    color: #FFFAF7;
+    font-size: 14px;
+    padding-top: 10px;
+}
+.search-bank-input{
+    margin-left: 105px;
+    height: 40px;
+    margin-left: 19px;
+    width: 70%;
+    padding-left:38px !important;  
+    font-size: 14px; 
+    border-bottom-left-radius: 3px;
+    border-top-left-radius: 3px;
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+}  
+.EMI-charges-div{
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.EMI-charges-msg-div{
+    height: 50%;
+    width: 100%;
+    background-color: #fffaf7;
+    border-left: 4px solid #f3a320;
+    border-radius: 4px;  
+}
+.EMI-charges-text-div{
+    font-family: 'WorkSans-m';
+    padding-left: 10px;
+    padding-top: 0px;
+}
+.courier-services-div{
+    display: flex;
+    flex-direction: row;   
+}
+.courier-service-div-first{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 120px;
+    height: 65px;
+    border: 1px solid #e9c0a8; 
+    border-radius: 4px;
+}
+.courier-service-radio-btn{
+    margin-left: 16px;
+}
+.dhl-Logo{
+    margin-left: 8px;
+    width: 50px;
+}
+.card-expiry-date-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+.card-expiry-month-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:50%;
+    padding-Right:8px; 
+}
+.card-expiry-year-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:50%;
+    padding-left: 8px;
+}
+.card-pay-with-paypal-forwardLogo-blue{
+    width: 7px;
+    height: 10px;
+    margin-left: 106px;
+    margin-top: -8px;
+}
+.cvv-card-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-Top: 3px; 
+}
+.visa-master-CVV-Logo{
+    height: 40px;
+    margin-top: 12px;
+}
+.CVV-text{
+    position: absolute;
+    margin: 23px;
+    margin-left: 72px;
+    color: red;
+    font-size: 12px;
+}
+.emi-duartions-header-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.emi-duartions-txt{
+    font-size: 14px;
+    margin-top: 10px;
+    margin-left: 8px;
+    font-weight: bold;
+}
+.cross-logo-emi{
+}
+.delete-cross-div{
+    display: flex;
+    justify-content: flex-end;
+}
+.delete-Delete-div{
+    display: flex;
+    justify-content: center;
+}
+.delete-confirmation-msg{
+    margin-top: 16px;
+    font-size: 16px;
+    justify-content: center;
+    font-weight: bolder;
+    text-align: center;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.address-box-div{
+    border: 1px solid #f5e3d8!important;
+    border-radius: 5px;
+    height: 150px;
+    padding: 16px;
+    background-color:#fffaf7;
+    margin-left: 8px;
+    margin-right: 8px;
+
+
+  
+}
+.delete-user{
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 14px;
+    
+}
+.delete-user-Address{
+    text-transform: capitalize;
+    font-size: 14px;
+}
+.delete-user-home{
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 14px;
+}
+.keep-address-btn{
+    border: 1px solid #f5e3d8!important;
+    border-radius: 5px;
+    height: 42px;
+    margin-top: 16px; 
+    margin-left: 8px;
+    margin-right: 8px;  
+}
+.keep-address-txt{
+    justify-content: center;
+    text-align: center;
+    padding-top: 10px;
+    color: red;
+    font-size: 14px;
+}
+.delete-address-txt{
+    justify-content: center;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+    font-size: 14px;
+}
+.black-search-glass-logo{
+    position:absolute;
+    margin:19px;
+    margin-left: 24px;
+}
+.save-borader-new{
+    margin-top: 3px;
+    border: 1px solid #edd4c5 !important;
+}
+.hr-border-bottom{
+    border: 0.25px solid #f5e3d8;
+    margin-top: -2;
+}
+.pay-with-paypal-div-new{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+	border-radius: 5px;
+	background-color: white;
+    height: 48px;
+    margin: 16px;
+    padding: 16px;
+	border: 1.5px solid #298fc2 !important;
+}
+.month-expiry-dropdown-logo{
+    position: absolute;
+    left: 42%;
+    margin-top: 31px; 
+}
+.year-expiry-dropdown-logo{
+    position: absolute;
+    left: 90%;
+    margin-top: 31px; 
+}
+.input-text-Area-mobile{
+    border: 1px solid #e9c0a8 !important;
+    margin-left: 105px;
+    border-radius: 5px;
+    height: 47px;
+    width: 28px;
+    text-align: left;
+    font-size: 18px;
+    /* padding-left:50px !important;  */
+}
+.country-code{
+position: absolute;
+margin-top: 20px;
+left:12%;
+font-size: 16px;
+}
+.select-country-control {
+    border: 1px solid #e9c0a8 !important;
+    border-radius: 5px;
+    height: 47px;
+    width: 100%;
+    text-align: left;
+    background-color: white;
+    padding-left: 10px;
+    color: gray;
+    padding-left: 16px;
+  }
+  input:focus::placeholder {
+    color: transparent;
+  }
+  
+  input,
+  input::-webkit-input-placeholder {
+      font-size: 20px;
+      line-height: 3;
+  }
+  .shipping-Address-header{
+    font-size: 14px;
+    margin-left: 16px;
+    padding-top: 16px;
+    text-transform: capitalize;
+    font-family: WorkSans-m;
+    color: #7B7876;
+}
+.month-expiry-date{
+    background-color: white; 
+    border: 1px solid #e9c0a8 !important;
+    text-align: left;
+    font-size: 14px;
+    border-radius: 5px;
+    justify-content: left;
+    text-align: left;
+    padding-left: 16px;
+}
+
+
+
+
+    #d-wrapper {
+    background-color: #fff;
+  }
+  #d-wrapper * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  #d-wrapper .zig-zag-bottom {
+    background: #ffffff;
+  }
+
+  
+  #d-wrapper .zig-zag-bottom:after {
+    background: linear-gradient(-45deg, transparent 16px, #ffffff 0),
+      linear-gradient(45deg, transparent 16px, #ffffff 0);
+    background-repeat: repeat-x;
+    background-position: left bottom;
+    background-size: 22px 20px;
+    content: "";
+    display: block;
+    width: 100%;
+    height: 20px;
+    position: relative;
+    top: 20px;
+  }
+
+  #d-wrapper .zig-zag-bottom {
+    box-shadow: 0px 0px 0px 0px #f0e1da, -3px 30px 10px -4px #f0e1da,0px 0px 0px 0px #f0e1da,0px 0px 0px 0px #f0e1da
+  }
+  
+  #d-wrapper p {
+    text-align: center;
+  }
+  
+  #d-wrapper p:not(:last-child) {
+    /* margin-bottom: 20px; */
+  }
+  
+  p {
+    text-align: center;
+  }
+  .auth {
+    text-decoration: overline;
+    color: #999;
+    font-size: 2em;
+  }
+  

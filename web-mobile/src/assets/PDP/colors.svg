@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 17</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="8.784689" cy="9.27272727" rx="8.784689" ry="9.27272727"></ellipse>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.13-PDP---Complete-Product-Details---Multi-color" transform="translate(-15.000000, -1785.000000)">
+            <g id="Group-23" transform="translate(16.000000, 1786.000000)">
+                <g id="Group-17">
+                    <circle id="Oval-3" stroke="#424242" cx="12" cy="12" r="12"></circle>
+                    <g id="Group-58" transform="translate(3.000000, 3.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#E096A6" xlink:href="#path-1"></use>
+                        <g mask="url(#mask-2)" id="Rectangle-19">
+                            <g transform="translate(-4.736842, -5.000000)">
+                                <rect fill="#88C343" x="0" y="0" width="13.2631579" height="14"></rect>
+                                <rect fill="#EE5330" x="13.2631579" y="0" width="13.2631579" height="14"></rect>
+                                <rect fill="#0B7BFF" x="0" y="14" width="13.2631579" height="14"></rect>
+                                <rect fill="#EAAF50" x="13.2631579" y="14" width="13.2631579" height="14"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Checkbox Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.0092049,2 C21.1086907,2 22,2.89821238 22,3.99079514 L22,20.0092049 C22,21.1086907 21.1017876,22 20.0092049,22 L3.99079514,22 C2.89130934,22 2,21.1017876 2,20.0092049 L2,3.99079514 C2,2.89130934 2.89821238,2 3.99079514,2 L20.0092049,2 Z M20,4 L4,4 L4,20 L20,20 L20,4 Z" id="path-1"></path>
+    </defs>
+    <g id="Category-Listing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-A----Category-Listing----Simple---Full-Length" transform="translate(-109.000000, -768.000000)">
+            <g id="Checkbox-Copy-2" transform="translate(107.000000, 766.000000)">
+                <polygon id="Bounding-Box" points="0 0 24 0 24 24 0 24"></polygon>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#E9C0A8" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

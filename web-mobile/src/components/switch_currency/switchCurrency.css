@@ -1,0 +1,137 @@
+
+    .container{
+        margin: 0 auto
+    }
+    
+    .crossLogo{
+        width:12px;
+        height:14px;
+    }  
+    .change-Currency-Prefix{
+        font-size: 14px;
+        width: 26px;
+        height: 19px;
+        margin-left: 91px;
+        margin-top: -2px;
+    }
+
+    .popular-text{
+        text-transform: uppercase;
+        font-size: 14px;
+        margin-left: 12px;
+        margin-top: 10px;
+        width: 66px;
+        height: 24px;
+        color: #808080;
+        font-weight: bold;
+    }
+    
+    .countryCurrencyFont{
+        font-size: 15px;
+        width: 60%;
+        text-transform: capitalize;
+        margin-left: 3px;
+    }
+    
+    .countryCurrencyPrefix{
+        font-size: 15px;
+        margin-Left:36px;
+        text-transform: uppercase;
+        margin-right: 16px;
+        font-weight: bold;
+    }
+    
+    .allFont{
+        font-size: 15px;
+        margin-Left:20px;
+    }
+    
+    ::placeholder{
+        font-size: 15px;
+        
+    }
+    .searchBox-div{
+        background-Color:#FFF0E7;
+        margin-Top:10px;
+        padding-Top:20px; 
+        padding-Bottom:5px;
+    }
+    .search-glass-logo{
+        position:absolute;
+        margin:19px;
+        margin-Left:1s2px;
+    }
+    .switch-Currency-header-div{
+        padding-left:16px;
+        padding-right: 16px;
+        display: flex;
+        flex-direction: row;
+        padding-top: 20px; 
+        padding-bottom: 4px;
+        justify-content: space-between;
+        box-shadow: 0 1px 1px 0 #edd4c5 !important;
+        
+    }
+    .change-Currency-Header{
+        font-weight: bolder;
+        font-size: 14px;
+        margin-top: -4px;
+    }
+    .change-currency-header-prefix-div{
+        display: flex;
+        flex-direction: row;
+        justify-Content: space-between;
+    }
+    .change-Currency-Prefix{
+        font-size: 14px;
+        width: 26px;
+        height: 19px;
+        
+        margin-top: -2px;
+    }
+        
+    .countryCurrencyDiv{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+         margin-Left:12px;
+         /* background-color: #FFFAF7; */
+         margin-top: 16px;
+    }
+    .switch-cur-borader{
+        border: 0.25px solid #edd4c5 !important;
+    }
+    
+    .search-currency-input{
+        margin-left: 105px;
+        border-radius: 3px;
+        height: 40px;
+        margin-left: 19px;
+        width: 70%;
+        padding-left:38px !important;  
+        font-size: 14px;
+       
+    }    
+.search-currency-box-div{
+    background-color:#FFF0E7;
+    padding: 16px;    
+}    
+
+.search-glass-logo-new{
+    position:absolute;
+    margin:19px;
+}
+.popular-text-new{
+    text-transform: uppercase;
+    font-size: 13px;
+    margin-left: 0px;
+    margin-top: 16px;
+    width: 66px;
+    height: 24px;
+    color: #808080;
+    margin-bottom: -12px;
+}
+.box-shadow-borader{
+    border: 0.25px solid #edd4c5 !important;
+    box-shadow: 0 2px 4px 0;
+}

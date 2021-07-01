@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_arrow_back</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.7">
+        <g id="1.1-Shipping-&amp;-Payment---No-Saved-Addresses---Mobile" transform="translate(-16.000000, -44.000000)" fill="#000000">
+            <g id="ic_arrow_back" transform="translate(16.000000, 44.000000)">
+                <polygon id="Shape" points="16 7 3.83 7 9.42 1.41 8 0 0 8 8 16 9.41 14.59 3.83 9 16 9"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

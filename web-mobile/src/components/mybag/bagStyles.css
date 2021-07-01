@@ -1,0 +1,128 @@
+
+ .e-header_styles{
+    flex-direction: row;
+    justify-content: space-between;
+    height: 56px;
+    padding-left: 12px;
+    padding-right: 12px;
+    align-items: center;
+    display: flex;
+    background-color: #fff;
+}   
+ .m-l-10
+ {
+   margin-left: 10px;
+ }
+ .m-r-10
+ {
+   margin-right: 10px;
+ }
+.e-crossIcon{
+ height:15;
+ width:15;
+ object-fit: contain;
+}
+.apply-btn-grey:focus
+{
+  background-color: #bb4225;
+
+}
+.e-screenTitle{
+ font-family: 'WorkSans-r';
+ color:black;
+ font-size: 18px;
+ padding-right: 52%; 
+ padding-top: 4px;
+}
+
+.e-savedIcon{
+ height:20px;
+ width:20px;
+ object-fit: contain;
+}
+
+.e-textStyle{
+ font-family:'WorkSans-r';
+ color:black;
+ padding-top:10px;
+ padding-left:15px;
+}
+
+ .e-card {
+   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.1);
+   transition: 0.3s;
+   /* width: 92%; */
+   /* height: 252px; */
+   /* margin-right: 16px; */
+   /* margin-left: 17px; */
+   background-color: white;
+   /* margin-top: 10px; */
+   border-radius: 4px;
+   position: relative;
+ }
+
+ .e-cardFields{
+   display:flex; 
+   padding-left:16px;
+   padding-top:16px
+ }
+
+ .e-imageStyle{
+   height:101px;
+   width:76px;
+   border-radius:4px;
+ }
+ .e-itemDetail{
+    flex-direction:'column';
+    padding-left:10px;
+    padding-top:6px
+ }
+
+ .e-spaceFromTop{
+   padding-top: 4px;
+ }
+.e-container{
+   padding-left: 16px;
+   padding-right: 16px;
+   padding-top: 16px;
+ }
+
+.e-section{
+  height: 60px !important;
+  width: 100%;
+  background-color: #fffaf7;
+  border-left: 4px solid #f3a320;
+} 
+ 
+.e-textSection{
+ font-family:'WorkSans-m';
+ padding-left: 10px;
+ padding-top: 12px; 
+}
+.place-Order-btn{
+  width: 100%;
+    height: 48px;
+    border-radius: 5px;
+    background-color: #bb4225;
+    margin-left: 5%;
+    margin-bottom: 10px;
+    -ms-flex-pack: center;
+    justify-content: center;
+    text-align: center;
+    color: #ffff;
+    font-size: 16px;
+}
+/* style={{ height:56,width:"90%", backgroundColor:"blue", paddingLeft:16, paddingTop:8, borderRadius:4 }} */
+/* #fffaf7 */
+
+/* sam css start here */
+
+.bg-jaypore-pink{
+  background-color: #fff0e7;
+}
+.d-flex{
+  display: flex;
+}
+.rot-180{
+  transform: rotate(180deg);
+}

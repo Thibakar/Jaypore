@@ -1,0 +1,148 @@
+form {border: 3px solid #f1f1f1;}
+
+input  {
+  width: 100%;
+  padding: 12px 15px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #e9c0a8;
+  box-sizing: border-box;
+  font-size: 14px;
+  caret-color: #bb4225;
+
+}
+
+
+
+input:focus{
+
+  border: 1px solid #bb4225;
+}
+
+a > div{
+  color: #212121;
+}
+
+button {
+  background-color: #4CAF50;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+img.avatar {
+  width: 40%;
+  border-radius: 50%;
+}
+
+.container {
+  padding: 16px;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+.content{
+    box-shadow: inset 0 -1px 1px 0 #ffffff;
+    background-color: #616161;
+    margin-left: -16px;
+    padding-left: 32px !important;
+}
+#as_icon_minus{
+  display: none;
+}
+#as_icon_plus{
+display: block;
+}
+
+/* custom css ends here */
+
+/* To remove blue color border when link/button clicked */
+a:focus,
+button:focus,
+input:focus,
+textarea:focus {
+outline: none !important;
+}
+
+
+.b-s-none{
+  box-shadow: none !important;
+  color: #d4d4d4;
+}
+
+.font-17{
+  font-size: 17px;
+}
+
+.m-t-8{
+  margin-top:8px;
+}
+
+/* input[type="date"]::-webkit-inner-spin-button {
+  display: none;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator{
+  background: none;
+  padding: 0;
+} */
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  color: rgba(0, 0, 0, 0);
+  opacity: 1;
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-width: thin;
+  background-color: white;
+}
+
+/* hide our custom/fake placeholder text when in focus to show the default
+ * 'mm/dd/yyyy' value and when valid to show the users' date of birth value.
+ */
+ /* .btn-radius::-webkit-input-placeholder {
+  color:white !important;
+  } */
+
+ .btn-radius input[type=date], input[type=datetime-local], input[type=month], input[type=time] {
+    -webkit-appearance: none;
+}
+
+.m-t-21{
+  margin-top:21px;
+}
+.col-d4{
+  color: #d4d4d4;
+}
+
+.m-t-0{
+  margin-top:0px !important;
+}
+
+input[type=checkbox] {
+  height: 23px;
+  width: 30px;
+  margin-top: 7px;
+  border: 2px solid #e9c0ab;
+
+}
